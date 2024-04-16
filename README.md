@@ -12,7 +12,7 @@ My passion for problem-solving fuels my journey as a developer. From untangling 
 
 ## Languages and Tools 🛠️
 
-![JavaScript](<i class="fa-brands fa-js"></i>)
+- Javascript
 - HTML5
 - CSS3
 - React
